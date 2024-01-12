@@ -1,1 +1,1 @@
-A new folder in zero_day.
+A readme for vagrant folder
